@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">👋 Hi, I’m Vishnu <br><br>🔭 I’m working as a Technical Engineer and Relational Manager<br><br>🎓 I’m an undergraduate currently learning various technologies including Python and Django<br><br>⚡ In my free time, I enjoy exploring new tech, solving coding challenges, and reading about computer science concepts</p>
+<p align="left">👋 Hi, I’m Vishnu <br><br>🔭 I’m working as a Technical Engineer and Relational Manager<br><br>🎓 I’m an Graduate currently learning various technologies including Python and Django<br><br>⚡ In my free time, I enjoy exploring new tech, solving coding challenges, and reading about computer science concepts</p>
 
 ###
 
