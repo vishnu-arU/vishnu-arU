@@ -94,9 +94,12 @@
 
 ###
 
+###
+
 <div align="center">
-Spotify recently played
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mirnabr7mdrfjsppce7svxp6qu&width={width})
+  <h3>🎧 Spotify Recently Played</h3>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mirnabr7mdrfjsppce7svxp6qu&width=400" alt="Spotify recently played" />
 </div>
+
 
 ###
