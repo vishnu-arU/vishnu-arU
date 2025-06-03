@@ -87,3 +87,14 @@
   <h3>🎧 Spotify Recently Played</h3>
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mirnabr7mdrfjsppce7svxp6qu&width=400" alt="Spotify recently played" />
 </div>
+###
+
+### 📚 Books I Read This Year
+
+- 📘 [*Automata and Computability* - Kozen](https://www.springer.com/gp/book/9780387949079)  
+- 📙 [*Clean Code* - Robert C. Martin](https://www.oreilly.com/library/view/clean-code/9780136083238/)  
+- 📗 [*Python Crash Course* - Eric Matthes](https://nostarch.com/pythoncrashcourse2e)  
+- 📕 [*Deep Learning with Python* - Chollet](https://www.manning.com/books/deep-learning-with-python)  
+- 📒 [*The Pragmatic Programmer* - Hunt & Thomas](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
+
+###
