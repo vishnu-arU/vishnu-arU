@@ -89,7 +89,7 @@
 </div>
 ###
 
-### 📚 Books I Read This Year
+📚 Books I Read This Year
 
 - 📘 [*Automata and Computability* - Kozen](https://www.springer.com/gp/book/9780387949079)  
 - 📙 [*Clean Code* - Robert C. Martin](https://www.oreilly.com/library/view/clean-code/9780136083238/)  
